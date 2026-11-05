@@ -1,5 +1,5 @@
 
-# \[Music Curation and Analytics Portfolio\]
+# \Music Curation and Analytics Portfolio\
 <!-- Version 2.0 -->
 week 1
 My theme for this dataset will be the song I Need U by BTS. 
