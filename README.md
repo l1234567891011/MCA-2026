@@ -1,4 +1,7 @@
-
+[week 1] 
+Task one
+When notating this piece of music,
+I firstly found some difficulty in finding a notated piece of music for my chosen song, most were either behind a paywall or just not accurate to the piece of music. 
 # Music Curation and Analytics Portfolio
 <!-- Version 2.0 -->
 ## Week 1
