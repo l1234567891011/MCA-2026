@@ -13,10 +13,10 @@ Working with music and music data can be challenging mainly due to access and di
 
 ## Manifestations of Data
 - Descriptive Data
-Their company, BigHit Music, displays information about the group and their music on their website. There is a dedicated tab for their discography, where you can find information about each album they've released from the tracklists, concept photos and music videos. The website also offers a small description of each album. 
+  - Their company, BigHit Music, displays information about the group and their music on their website. There is a dedicated tab for their discography, where you can find information about each album they've released from the tracklists, concept photos and music videos. The website also offers a small description of each album. 
 
 - Notated Data
-There is a lack of official published music scores and most that can be found are fanmade, often behind paywalls. 
+  - There is a lack of official published music scores and most that can be found are fanmade, often behind paywalls. 
 
 - Acoustic Data
-BTS's discography can be found on streaming services such as Spotify, YouTube, Apple Music and SoundCloud. 
+  - BTS's discography can be found on streaming services such as Spotify, YouTube, Apple Music and SoundCloud. 
