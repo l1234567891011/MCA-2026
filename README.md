@@ -1,4 +1,4 @@
-<a href="weektwo.html" title="Week Two">Week Two</a> 
+[week 2] (https://github.com/l1234567891011/MCA-2026/edit/master/tasks/week%202/weektwo.html) 
 # Music Curation and Analytics Portfolio
 <!-- Version 2.0 -->
 ## Week 1
