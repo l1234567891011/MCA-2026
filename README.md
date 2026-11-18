@@ -1,4 +1,4 @@
-<a href="weektwo.html">Week 2</a>
+
 # Music Curation and Analytics Portfolio
 <!-- Version 2.0 -->
 ## Week 1
