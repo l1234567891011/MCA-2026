@@ -1,4 +1,4 @@
-[[week 1]](https://github.com/l1234567891011/MCA-2026/edit/master/README.md) [tasks/week 1/weekone.html]
+[[week 1]](https://github.com/l1234567891011/MCA-2026/tasks/week1/weekone.html) [tasks/week 1/weekone.html]
 # Music Curation and Analytics Portfolio
 <!-- Version 2.0 -->
 
