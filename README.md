@@ -2,4 +2,4 @@
 # Music Curation and Analytics Portfolio
 <!-- Version 2.0 -->
 
-This is my homepage for my portfolio. You can access each week at the top of the page.
+Welcome to my homepage for my Music Curation and Analytics Portfolio. You can access Week 1 at the bottom of the page.
