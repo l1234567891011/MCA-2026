@@ -4,4 +4,4 @@
 
 Welcome to my homepage for my Music Curation and Analytics Portfolio. You can access Week 1 at the bottom of the page.
 
-Week 1 ->
+**Week 1 ->**
